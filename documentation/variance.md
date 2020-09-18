@@ -1,4 +1,4 @@
-# what does <img src="https://img.shields.io/badge/Variant-ROOT-important"> mean?
+# what does <a href="./variance.md"><img src="https://img.shields.io/badge/Variant-ROOT-important"></a> mean?
 
 Well I'm taking a *Linux* approach to it; a variant is like a *distro* it varies if you get what I'm saying. 
 There's a variant for ***RobotC*** which will be coming to GitHub soon. 
