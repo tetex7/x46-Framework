@@ -11,7 +11,7 @@
 AKA, ***The-Framework*** and for legacy purposes, *x46-IPP*.
   let's get to the meat of it all the x46-FW is designed to help the developer 
 **Not To Fight The Dev**.
-it is designed to work with every project from Robots to Little Gadgets runing on C/C++.
+it is designed to work with every project from Robots to Little Gadgets runing on C++.
 <a href="./documentation"><h3>More Info in The Documentation.</h3></a>
 <h3>More Documentation Comeing Soon.</h3>
 <a href="https://github.com/tetex7/x46_LIB"><img src="https://img.shields.io/badge/Variant-C%23-important" /a>WIP
